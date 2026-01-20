@@ -5,7 +5,7 @@ Backend-focused engineer building scalable, reliable systems using modern Java a
 
 ## 🛠️ Tech Stack
 **Languages:** Java, Python, Golang  
-**Backend:** Spring Boot, WebFlux, REST APIs, Microservices  
+**Backend:** Spring Boot, FastAPI, REST APIs, Microservices  
 **Messaging & Caching:** Kafka, RabbitMQ, Redis  
 **Databases:** MySQL, PostgreSQL, MongoDB  
 **Cloud & DevOps:** AWS (S3, SES), Docker, Kubernetes  
