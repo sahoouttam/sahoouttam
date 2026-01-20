@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**sahoouttam/sahoouttam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Software Engineer
+Backend-focused engineer building scalable, reliable systems using modern Java and cloud-native technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** Java, Python, Golang  
+**Backend:** Spring Boot, WebFlux, REST APIs, Microservices  
+**Messaging & Caching:** Kafka, RabbitMQ, Redis  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Cloud & DevOps:** AWS (S3, SES), Docker, Kubernetes  
+**Tools:** Git, Gradle, Maven, Liquibase, JUnit, Mockito  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Enjoy Working On
+- Designing and scaling backend systems
+- Event-driven and distributed architectures
+- Performance optimization and system reliability
+
+## 📌 Featured Work
+- **[Project Name](link)** — Short, impact-focused description.
+- **[Project Name](link)** — Short, impact-focused description.
+
+## 📫 Connect
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: your@email.com
