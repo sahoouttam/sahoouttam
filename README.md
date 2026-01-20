@@ -21,5 +21,5 @@ Backend-focused engineer building scalable, reliable systems using modern Java a
 - **[Project Name](link)** — Short, impact-focused description.
 
 ## 📫 Connect
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your@email.com
+- LinkedIn: https://linkedin.com/in/uttamsahoo
+- Email: uttamsahoo011@email.com
