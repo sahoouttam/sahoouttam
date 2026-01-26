@@ -15,14 +15,9 @@ Backend-focused engineer building scalable, reliable systems using modern Java a
 Actively expanding expertise in Machine Learning, focusing on algorithms, model development, and practical applications.
 
 ## 📫 Connect
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="link.png" alt="LinkedIn" width="60"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/yourhandle">
-  <img src="tw.png" alt="X" width="60"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:your@email.com">
-  <img src="imge1.png" alt="Gmail" width="60"/>
-</a>
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/uttamsahoo)
+[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/uttamsahoo_)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:uttamsahoo011@email.com)
+
