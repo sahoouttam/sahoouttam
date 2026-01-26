@@ -16,19 +16,18 @@ Actively expanding expertise in Machine Learning, focusing on algorithms, model 
 
 ## 📫 Connect
 <a href="https://x.com/P">
-  <img align="left" src="https://img.icons8.com/color/96/x.png" width="60" height="60"/>
+  <img align="left" src="https://cdn.simpleicons.org/x/000000" width="60" height="60"/>
 </a>
 
 <a href="https://www.linkedin.com/in/p/">
-  <img align="left" src="https://img.icons8.com/color/96/linkedin.png" width="60" height="60"/>
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="60" height="60"/>
 </a>
 
 <a href="mailto:p@gmail.com">
-  <img align="left" src="https://img.icons8.com/color/96/gmail.png" width="60" height="60"/>
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="60" height="60"/>
 </a>
 
 <br/><br/>
-
 
 
 
