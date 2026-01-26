@@ -15,16 +15,16 @@ Backend-focused engineer building scalable, reliable systems using modern Java a
 Actively expanding expertise in Machine Learning, focusing on algorithms, model development, and practical applications.
 
 ## 📫 Connect
-<a href="https://x.com/P">
-  <img align="left" src="https://img.icons8.com/?size=512&id=119014&format=png" width="60" height="60"/>
+<a href="mailto:uttamsahoo011@gmail.com">
+  <img align="left" src="https://img.icons8.com/?size=512&id=Ros6Kw5sh4Wx&format=png" width="60" height="60"/>
 </a>
 
-<a href="https://www.linkedin.com/in/p/">
+<a href="https://www.linkedin.com/in/uttamsahoo">
   <img align="left" src="https://img.icons8.com/?size=512&id=118979&format=png" width="60" height="60"/>
 </a>
 
-<a href="mailto:p@gmail.com">
-  <img align="left" src="https://img.icons8.com/?size=512&id=Ros6Kw5sh4Wx&format=png" width="60" height="60"/>
+<a href="https://x.com/uttamsahoo_">
+  <img align="left" src="https://img.icons8.com/?size=512&id=119014&format=png" width="60" height="60"/>
 </a>
 
 <br/><br/>
