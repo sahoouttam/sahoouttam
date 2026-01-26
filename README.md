@@ -16,7 +16,7 @@ Actively expanding expertise in Machine Learning, focusing on algorithms, model 
 
 ## 📫 Connect
 <a href="https://x.com/P">
-  <img align="left" src="https://img.icons8.com/?size=512&id=phOKFKYpe00C&format=png" width="60" height="60"/>
+  <img align="left" src="https://img.icons8.com/?size=512&id=119014&format=png" width="60" height="60"/>
 </a>
 
 <a href="https://www.linkedin.com/in/p/">
@@ -28,6 +28,7 @@ Actively expanding expertise in Machine Learning, focusing on algorithms, model 
 </a>
 
 <br/><br/>
+
 
 
 
