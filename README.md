@@ -20,11 +20,11 @@ Actively expanding expertise in Machine Learning, focusing on algorithms, model 
 </a>
 
 <a href="https://www.linkedin.com/in/p/">
-  <img align="left" src="https://cdn.simpleicons.org/linkedin" width="60" height="60"/>
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="60" height="60"/>
 </a>
 
 <a href="mailto:p@gmail.com">
-  <img align="left" src="https://cdn.simpleicons.org/gmail" width="60" height="60"/>
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="60" height="60"/>
 </a>
 
 <br/><br/>
