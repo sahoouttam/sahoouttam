@@ -16,13 +16,13 @@ Actively expanding expertise in Machine Learning, focusing on algorithms, model 
 
 ## 📫 Connect
 <a href="https://linkedin.com/in/yourprofile">
-  <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/>
+  <img src="link.png" alt="LinkedIn" width="60"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/yourhandle">
-  <img src="https://cdn.simpleicons.org/x" alt="X" width="40" height="40"/>
+  <img src="tw.png" alt="X" width="60"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:your@email.com">
-  <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="40" height="40"/>
+  <img src="imge1.png" alt="Gmail" width="60"/>
 </a>
