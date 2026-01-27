@@ -11,9 +11,6 @@ Backend-focused engineer building scalable, reliable systems using modern Java a
 **Cloud & DevOps:** AWS (S3, SES), Docker, Kubernetes  
 **Tools:** Git, Gradle, Maven, Liquibase, JUnit, Mockito  
 
-## 🌱 Professional Development
-Actively expanding expertise in Machine Learning, focusing on algorithms, model development, and practical applications.
-
 ## 📫 Connect
 <a href="mailto:uttamsahoo011@gmail.com">
   <img align="left" src="https://img.icons8.com/?size=512&id=Ros6Kw5sh4Wx&format=png" width="60" height="60"/>
