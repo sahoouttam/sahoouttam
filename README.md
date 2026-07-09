@@ -1,6 +1,6 @@
 # Hi, I'm Uttam Sahoo 👋
 
-## 👨‍💻 Software Engineer
+##  Software Engineer
 <!--Backend-focused engineer building scalable, reliable systems using modern Java and cloud-native technologies.-->
 
 ## 🛠️ Tech Stack
