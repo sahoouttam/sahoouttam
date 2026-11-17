@@ -4,12 +4,15 @@
 <!--Backend-focused engineer building scalable, reliable systems using modern Java and cloud-native technologies.-->
 
 ## 🛠️ Tech Stack
-**Languages:** Java, Python, Golang  
-**Backend:** Spring Boot, FastAPI, REST APIs, Microservices  
-**Messaging & Caching:** Kafka, RabbitMQ, Redis  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Cloud & DevOps:** AWS (S3, SES), Docker, Kubernetes  
-**Tools:** Git, Gradle, Maven, Liquibase, JUnit, Mockito  
+**Languages:** Java · Python · Go
+**Backend Engineering:** Spring Boot · Spring WebFlux · FastAPI · REST APIs · Microservices
+**Stream & Event Processing:** Apache Kafka · Kafka Streams · Event-Driven Architecture
+**Data Engineering:** Apache Spark · Delta Lake · dbt · DuckDB · Snowflake
+**AI & LLM Engineering:** LangChain · LangGraph · LlamaIndex · Vector Databases
+**Databases & Caching:** MySQL · PostgreSQL · MongoDB · Redis
+**Cloud & DevOps:** AWS · GCP · Docker · Kubernetes · Jenkins
+**Frameworks & Libraries:** Lombok · Thymeleaf · Liquibase
+**Build & Testing Tools:** Gradle · Maven · Git · JUnit · Mockito
 
 ## 📫 Connect
 <a href="mailto:uttamsahoo011@gmail.com">
