@@ -3,7 +3,7 @@
 ##  Software Engineer
 Backend-focused Software Engineer building backend services and microservices using Java and Spring Boot. Interested in distributed systems, event-driven architectures, scalable applications, and solving complex engineering problems.
 
-## :hammer_and_wrench: Tech Stack
+## Tech Stack
 **Languages:** Java, Python, Go  
 **Backend Engineering:** Spring Boot, Spring WebFlux, FastAPI, REST APIs, Microservices  
 **Stream & Event Processing:** Apache Kafka, Kafka Streams, Event-Driven Architecture  
